@@ -1,0 +1,30 @@
+.contact_us form{
+    max-width: 500px;
+    margin: auto;
+}
+ table tr td img{
+     width: 45px;
+     height: 45px;
+     object-fit: contain;
+ }
+.simulation img{
+    width: 70px;
+    height: 70px;
+}
+.form-images img{
+    height: 70px;
+}
+.delete-image a{
+    position: absolute;
+    cursor: pointer;
+    top: 5px;
+    right: 5px;
+    background-color: darkred;
+    color: white;
+    width: 20px;
+    height: 20px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
